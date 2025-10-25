@@ -1,4 +1,5 @@
 Galgallo S Jaldesa
+
 Software Engineer| Network Engineer | IT support specialist 
 
 👩‍💻 Passionate about merging technology and creativity to solve real-world problems.
