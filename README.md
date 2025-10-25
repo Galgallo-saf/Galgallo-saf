@@ -1,5 +1,5 @@
-[Galgallo S Jaldesa
-](https://github.com/Galgallo-saf/Galgallo-saf/tree/main)
+[Galgallo S Jaldesa](https://github.com/Galgallo-saf/Galgallo-saf/tree/main)
+
 Software Engineer| Network Engineer | IT support specialist 
 
 👩‍💻 Passionate about merging technology and creativity to solve real-world problems.
@@ -33,11 +33,16 @@ Build networks and configure network devices and troubleshoot network and hardwa
 Enhance my editing and design skills to create visually stunning and user-friendly interfaces.
 
 Connect with Me
+
 Let’s collaborate and create something amazing! 🌟
 
 
 Email: galgallosafaro5@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/galgallosjaldesa
+
 🐦 Twitter: https://x.com/Galgall72422143?t=LDinmCfDdMNgUzu4s1NYxw&s=09
+
 📸 Instagram: https://www.instagram.com/galgallo_jaldesa?igsh=ZmlvbHZldWFwcTRz
+
 ✨ "All our dreams can come true, if we have the courage to pursue them."-walt Disney
