@@ -1,5 +1,6 @@
 [Galgallo S Jaldesa
-](https://github.com/Galgallo-saf/Galgallo-saf/tree/main)Software Engineer| Network Engineer | IT support specialist 
+](https://github.com/Galgallo-saf/Galgallo-saf/tree/main)
+Software Engineer| Network Engineer | IT support specialist 
 
 👩‍💻 Passionate about merging technology and creativity to solve real-world problems.
 
