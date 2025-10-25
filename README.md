@@ -3,7 +3,7 @@ Software Engineer| Network Engineer | IT support specialist
 
 👩‍💻 Passionate about merging technology and creativity to solve real-world problems.
 
-**About Me
+About Me
 Hi there! I’m Galgallo Safaro Jaldesa,IT graduate who is a self learning Software Developer with a passion for bringing technology and creativity together. My journey started with a desire to solve problems and make a difference in the world. I’m particularly inspired by the potential of technology to empower people of all ages, and I’m dedicated to building apps that make a positive impact while ensuring data security.
 
 My goal is to become one of the leading  Software Developers in the industry, and I’m working hard every day to improve my skills in frontend development, graphic design, and networking. I believe in continuous learning, collaboration, and innovation.
